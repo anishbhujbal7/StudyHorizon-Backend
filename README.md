@@ -250,7 +250,7 @@ This project is licensed under the **MIT License**. You may use, modify, and dis
 
 ## 👨‍💻 Author
 
-Made with ❤️ by **Anish Bhujbal**
+Made by **Anish Bhujbal**
 
 📘 **Backend of StudyHorizon – The Future of Learning**
 
