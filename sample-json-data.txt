@@ -1,0 +1,51 @@
+
+//role Admin
+{
+  "email": "anish@example.com",
+  "password": "12345678"
+}
+
+
+//role instructor
+{
+  "email": "ravi.instructor@gmail.com",
+  "password": "ravi12345"
+}
+
+//role instructor
+{
+  "firstName": "Sneha",
+  "lastName": "Verma",
+  "email": "sneha.instructor@gmail.com",
+  "password": "sneha12345",
+  "confirmPassword": "sneha12345",
+  "accountType": "Instructor",
+  "contactNumber": "9123456789",
+  "otp": "111111"
+}
+
+//role student
+{
+  "firstName": "Aman",
+  "lastName": "Patel",
+  "email": "aman.student@gmail.com",
+  "password": "aman12345",
+  "confirmPassword": "aman12345",
+  "accountType": "Student",
+  "contactNumber": "9000000001",
+  "otp": "880422"
+}
+
+//role student
+{
+  "firstName": "Meera",
+  "lastName": "Sharma",
+  "email": "meera.student@gmail.com",
+  "password": "meera12345",
+  "confirmPassword": "meera12345",
+  "accountType": "Student",
+  "contactNumber": "9000000002",
+  "otp": "617414"
+}
+
+
